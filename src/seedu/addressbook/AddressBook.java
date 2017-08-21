@@ -998,6 +998,7 @@ public class AddressBook {
                     encoded.substring(indexOfPhonePrefix, indexOfEmailPrefix).trim(),
                     PERSON_DATA_PREFIX_PHONE);
         }
+
     }
 
     /**
